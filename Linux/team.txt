@@ -1,0 +1,7 @@
+cat << EOF > team.txt
+Alice is a software engineer.
+Bob is a DevOps engineer and a mentor.
+Clara is a QA engineer.
+David is an engineer engineer engineer.
+Emma is a product manager.
+EOF
