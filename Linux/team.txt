@@ -1,7 +1,8 @@
-cat << EOF > team.txt
 Alice is a software engineer.
-Bob is a DevOps engineer and a mentor.
-Clara is a QA engineer.
-David is an engineer engineer engineer.
-Emma is a product manager.
-EOF
+Bob works as a DevOps engineer and sometimes a site reliability engineer.
+Clara is an intern but wants to become an engineer one day.
+David is an engineer engineer engineer. (He really likes his job.)
+Eve is a manager, but she used to be an electrical engineer.
+Frank and Grace both studied engineering but only Grace became an engineer.
+The engineering department consists of 12 engineers.
+ENGINEER is a keyword that appears in uppercase too.
