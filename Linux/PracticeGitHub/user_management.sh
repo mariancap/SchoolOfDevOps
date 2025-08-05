@@ -1,5 +1,4 @@
 #!/bin/bash
-
 script_name=`basename $0`
 
 
